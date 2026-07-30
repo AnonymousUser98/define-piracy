@@ -22,3 +22,5 @@ If there is a 🏴‍☠️ in the _Piracy_ column, then I would call it piracy.
 |Dumping a game and selling the original|🏴‍☠️|🔴|
 |Dumping a game and selling the dumped copy|🏴‍☠️|🔴|
 |Downloading a console BIOS or a ROM of a free game/app||🔴|
+
+Many people have different opinions about what is and isn't piracy, and homebrew communities on Discord usually simplify it by using the term "piracy" to describe anything that the DMCA considers copyright infringement.
