@@ -7,7 +7,7 @@ The term "piracy" usually refers to the ethical side of the issue (e.g. harming 
 
 🟢 = Legal\
 🟡 = Legally Grey\
-🔴 = Illegal\
+🔴 = Illegal
 
 If there is a 🏴‍☠️ in the _Piracy_ column, then I would call it piracy.
 
